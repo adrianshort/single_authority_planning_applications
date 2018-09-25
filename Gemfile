@@ -7,4 +7,4 @@ source "https://rubygems.org"
 ruby "2.3.1"
 
 gem "scraperwiki", git: "https://github.com/openaustralia/scraperwiki-ruby.git", branch: "morph_defaults"
-gem "uk_planning_scraper", git: "https://github.com/adrianshort/uk_planning_scraper.git", ref: "6d72d25"
+gem "uk_planning_scraper", git: "https://github.com/adrianshort/uk_planning_scraper.git"
