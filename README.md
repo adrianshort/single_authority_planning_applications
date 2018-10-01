@@ -4,7 +4,7 @@
 2. Sign in to [Morph](https://morph.io) with your GitHub account.
 3. Create a [new scraper](https://morph.io/scrapers/new) on Morph.
 4. Choose your forked repo (`single_authority_planning_applications`) as the scraper code.
-5. In the Morph settings page, create two `Secret environment variables`:
+5. In the Settings page for your scraper on Morph, create two `Secret environment variables`:
 6. Set `MORPH_AUTHORITY_NAME` to the name of your council, eg `Hackney`.
 7. Set `MORPH_DAYS` to the number of recent days you want to scrape, eg `7`.
 8. Run the scraper.
