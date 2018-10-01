@@ -10,3 +10,5 @@
 8. Run the scraper.
 9. Use the [Morph API](https://morph.io/documentation/api) to grab your scraped data or download CSV/SQLite files straight from your scraper page. You must be signed in to do that.
 10. On your scraper's Settings page, tick the `Auto run` box to make your scraper run once per day.
+
+This project is powered by the [UK Planning Scraper](https://github.com/adrianshort/uk_planning_scraper) Ruby gem.
